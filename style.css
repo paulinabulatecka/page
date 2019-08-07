@@ -1,0 +1,42 @@
+body {
+    background: grey;
+}
+
+.mainHeader {
+    color: rosybrown;
+}
+
+.paragraph {
+    color: blue;
+}
+
+.sectionHeader {
+    color: #f3a9fa;
+    font-size: 36px
+}
+
+.characteristicHeader {
+    color: chocolate;
+    font-size: 41px
+}
+
+.basicInformation {
+    color: crimson
+}
+
+.howLonglivingQuokki {
+    color: green
+}
+
+.quokkaReproduction {
+    color: goldenrod
+}
+
+.cucumberHeader {
+    color: wheat;
+    font-size: 59px
+}
+
+.tomatoHeader {
+    color: tomato
+}
